@@ -39,7 +39,7 @@ Este projeto é uma simulação de um banco digital utilizando conceitos de Prog
 
 2. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/lurregiabarreto/Bando-digital-oo-DIO.git
    cd nome-do-repositorio
    ```
 
